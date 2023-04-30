@@ -238,8 +238,8 @@ Handle the following custom conversion specifier:
 15. ###### *
 All the above options work well together.
 
-### Authors &copy;
+### Author &copy;
 
-- <a href="https://github.com/Solomonkassa">Solomon Kassa</a>
-- <a href="https://github.com/Newi-M">Nawwal Ismael</a>
+- <a href="https://github.com/Tunta1437">Bramwel Konchellah Tunta</a>
+
 
